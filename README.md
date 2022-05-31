@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FearlessOne2000
+- 👋 Hi, I’m Mina Girgis
 - 👀 I’m interested in web and app development.
 - 🌱 I’m currently learning Java and will soon be starting Javascript/HTML for web development.
 - 💞️ I’m looking to collaborate on web and app development.
