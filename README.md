@@ -1,4 +1,5 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
+
 - 👀 I’m interested in web, app development, and AI.
 
 - 🌱 I’m currently learning HTML, Javascript, CSS, and php.
