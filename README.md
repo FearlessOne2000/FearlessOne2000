@@ -11,7 +11,7 @@
 - I also gained a lot of experience with Java by joining an Asterea Robotics group.
 
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)
 
 ## Repos
