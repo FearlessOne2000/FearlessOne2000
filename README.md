@@ -5,13 +5,13 @@
 - ✨ I gain a lot of insperation from Iron Man movies (specifically Jarvis).
 - I also gained a lot of experience with Java by joining an Asterea Robotics group.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
+![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)
 
 ## Repos
 
-[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=calculator-app&show_owner=true)](https://github.com/MinaGirgis2000/CalculatorApp)
+[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculator-app&show_owner=true)](https://github.com/MinaGirgis2000/CalculatorApp)
 
 **Languages and Tools:**  
 
