@@ -11,7 +11,7 @@
 
 ## Repos
 
-![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculator-app&show_owner=true)(https://github.com/MinaGirgis2000/CalculatorApp)
+[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculator-app&show_owner=true)](https://github.com/MinaGirgis2000/CalculatorApp)
 
 **Languages and Tools:**  
 
