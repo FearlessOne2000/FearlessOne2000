@@ -1,8 +1,12 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
 - 👀 I’m interested in web, app development, and AI.
+
 - 🌱 I’m currently learning HTML, Javascript, CSS, and php.
+
 - 💞️ I’m would like to collaborate with someone on a project.
+
 - ✨ I gain a lot of insperation from Iron Man movies (specifically Jarvis).
+
 - I also gained a lot of experience with Java by joining an Asterea Robotics group.
 
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
