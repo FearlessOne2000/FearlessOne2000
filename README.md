@@ -18,7 +18,7 @@
 
 [![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&show_owner=true)](https://github.com/MinaGirgis2000/CalculatorApp)
 
-[![GPA Calculator](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=Python-GPACalculator&show_owner=true)](https://github.com/MinaGirgis2000/Python-GPACalculator)
+[![GPA Calculator](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=gpacalculator&show_owner=true)](https://github.com/MinaGirgis2000/Python-GPACalculator)
 
 **Languages and Tools:**  
 
