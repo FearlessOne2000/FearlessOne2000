@@ -18,6 +18,8 @@
 
 [![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&show_owner=true)](https://github.com/MinaGirgis2000/CalculatorApp)
 
+[![GPA Calculator](https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&show_owner=true)](https://github.com/MinaGirgis2000/Python-GPACalculator)
+
 **Languages and Tools:**  
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
