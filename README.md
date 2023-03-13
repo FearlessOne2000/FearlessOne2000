@@ -16,11 +16,11 @@
 
 ## Repos
 
-[![Calculator App]<a href="https://github.com/MinaGirgis2000/CalculatorApp">
+<a href="https://github.com/MinaGirgis2000/CalculatorApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp" />
 </a>
-[![Python GPA Calculator]<a href="https://github.com/MinaGirgis2000/Python-GPACalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pythongpacalculator" />
+<a href="https://github.com/MinaGirgis2000/PyGPACalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator" />
 </a>
 
 **Languages and Tools:**  
