@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-**Languages and Tools:**
+#### Languages and Tools:
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
