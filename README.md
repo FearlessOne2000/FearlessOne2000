@@ -1,12 +1,10 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
 
-- I’m interested in web, app development, and AI.
-
-- I currently know how to code in java, python, html, css and a little bit of Javascript and php
-
-- I’m would like to collaborate with someone on a project.
-
-- I also gained a lot of experience with Java by joining an Asterea Robotics group.
+- 🧑‍💻 I'm a 15-year-old self-taught programmer with experience in Java, Python, HTML, CSS, JavaScript, and PHP.
+- 🏫 I learned some programming in school, but most of what I know is from self-directed learning.
+- 📱 My main interests are in app development and AI, and I'm always looking for new challenges in these areas.
+- 🤖 I gained valuable experience with Java by participating in an Asterea Robotics group.
+- 💻 I also have some experience with Linux and command-line interfaces.
 
 ### Stats
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
