@@ -12,7 +12,7 @@
 
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)-->
 
 ## Repos
 
@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-** **
+****
 **Languages and Tools:**  
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
