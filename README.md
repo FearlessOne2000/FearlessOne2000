@@ -13,7 +13,7 @@
 ### Stats
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaGirgis2000&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical)
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=neon-palenight&hide_border=true)
 
 ## Repos
 
@@ -30,7 +30,7 @@
 <a><code><img height="40" width="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code></a>
 <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
 <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code></a>
-<a><code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code></a>
+<!--<a><code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code></a>-->
 <a><code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code></a>
 <a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
 <a><code><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/></code></a>
