@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
 
-- 🧑‍💻 I'm a 15-year-old self-taught programmer with experience in Java, Python, HTML, CSS, JavaScript, and PHP.
+- 🧑‍💻 I'm a 15-year-old self-taught programmer with experience in Java, Python, HTML, CSS, and JavaScript.
 
 - 🏫 I learned some programming in school, but most of what I know is from self-directed learning.
 
