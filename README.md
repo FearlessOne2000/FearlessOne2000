@@ -12,16 +12,19 @@
 
 ### Stats
 ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical&hide_border=true&hide=shell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical&hide_border=true&hide=shell,batchfile,ruby)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=radical&hide_border=true)
 
 ## Repos
 
-<a href="https://github.com/MinaGirgis2000/CalculatorApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&theme=rose_pine&hide_border=true" />
+<a href="https://github.com/MinaGirgis2000/MinaGirgis2000.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=minagirgis2000.github.io&theme=rose_pine&hide_border=true" />
 </a>
 <a href="https://github.com/MinaGirgis2000/PyGPACalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&theme=rose_pine&hide_border=true" />
+</a>
+<a href="https://github.com/MinaGirgis2000/CalculatorApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&theme=rose_pine&hide_border=true" />
 </a>
 
 #### Languages and Tools:
