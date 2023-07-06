@@ -11,7 +11,7 @@
 - 💻 I also have some experience with Linux and command-line interfaces.
 
 ### Stats
-![Mina's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true)
+![MinaGirgis2000's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&layout=compact&theme=radical&hide_border=true&hide=shell,batchfile,ruby)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=radical&hide_border=true)
 
