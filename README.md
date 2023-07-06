@@ -1,14 +1,12 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
 
-- 🧑‍💻 I'm a 15-year-old self-taught programmer with experience in Java, Python, HTML, CSS, and JavaScript.
+- 🧑‍💻 15-year-old, self-taught, tech enthusiast
 
-- 🏫 I learned some programming in school, but most of what I know is from self-directed learning.
+- 🤖 Experience in programming, cyber security, and Linux
 
-- 📱 My main interests are in app development and AI, and I'm always looking for new challenges in these areas.
+- 🖥️ Java, Python, C, Bash, HTML, CSS, and JavaScript.
 
-- 🤖 I gained valuable experience with Java by participating in an Asterea Robotics group.
-
-- 💻 I also have some experience with Linux and command-line interfaces.
+- 🏫 Currently learning from SANS Foundation, Udemy, edx, Codecademy, and Youtube.
 
 ### Stats
 ![MinaGirgis2000's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
