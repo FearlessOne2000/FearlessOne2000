@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I’m Mina!</h2>
 
-- 🧑‍💻 15-year-old, self-taught, tech enthusiast
+- 🧑‍💻 16-year-old, self-taught, tech enthusiast
 
 - 🤖 Experience in programming, cyber security, and Linux
 
