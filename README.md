@@ -6,6 +6,8 @@
 
 - 🖥️ Java, Python, C, Bash, HTML, CSS, and JavaScript.
 
+- 📜 GIAC/GFACT certified
+
 
 ### Stats
 ![MinaGirgis2000's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
