@@ -25,13 +25,14 @@
 
 #### Languages and Tools:
 
-<a><code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code></a>
-<a><code><img height="40" width="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code></a>
-<a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
-<a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code></a>
-<a><code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code></a>
-<a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
-<a><code><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/></code></a>
-<!--<a><code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code></a>-->
+<a><code><img width=50 src="https://qph.cf2.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770"></code></a> <!--Java-->
+<a><code><img width=40 src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></code></a> <!--Python-->
+<a><code><img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code></a> <!--HTML-->
+<a><code><img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code></a> <!--CSS-->
+<a><code><img width=40 src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code></a> <!--JavaScript-->
+<a><code><img width=40 src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></code></a> <!--VS Code-->
+<a><code><img width=40 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code></a> <!--Git-->
+<a><code><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"/></code></a> <!--Bash-->
+<!--<a><code><img width=40 src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code></a>--> <!--PHP-->
 
 ![Views](https://komarev.com/ghpvc/?username=MinaGirgis2000)
