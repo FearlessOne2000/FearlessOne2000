@@ -16,9 +16,6 @@
 
 ## Repos
 
-<a href="https://github.com/MinaGirgis2000/MinaGirgis2000.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=minagirgis2000.github.io&theme=rose_pine&hide_border=true" />
-</a>
 <a href="https://github.com/MinaGirgis2000/PyGPACalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&theme=rose_pine&hide_border=true" />
 </a>
