@@ -4,7 +4,7 @@
 
 - 🤖 Experience in programming, cyber security, and Linux
 
-- 🖥️ Java, Python, C, Bash, HTML, CSS, and JavaScript.
+- 🖥️ Java, Python, Bash, HTML, CSS, and JavaScript.
 
 - 📜 GIAC/GFACT certified
 
