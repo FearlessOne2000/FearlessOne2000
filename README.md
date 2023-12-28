@@ -10,20 +10,20 @@
 
 
 ### Stats
-![MinaGirgis2000's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&theme=radical&hide_border=true&hide=shell,batchfile,ruby)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=radical&hide_border=true)
+![MinaGirgis2000's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MinaGirgis2000&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaGirgis2000&theme=github_dark&hide_border=true&hide=shell,batchfile,ruby)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaGirgis2000&theme=github_dark&hide_border=true)
 
 ## Repos
 
 <a href="https://github.com/MinaGirgis2000/GPACalculatorWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=gpacalculatorwebsite&theme=rose_pine&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=gpacalculatorwebsite&theme=holi&hide_border=true" />
 </a>
 <a href="https://github.com/MinaGirgis2000/PyGPACalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&theme=rose_pine&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&theme=holi&hide_border=true" />
 </a>
 <a href="https://github.com/MinaGirgis2000/CalculatorApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&theme=rose_pine&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=calculatorapp&theme=holi&hide_border=true" />
 </a>
 
 #### Languages and Tools:
