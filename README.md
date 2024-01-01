@@ -16,9 +16,6 @@
 
 ## Repos
 
-<a href="https://github.com/MinaGirgis2000/GPACalculatorWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=gpacalculatorwebsite&theme=holi&hide_border=true" />
-</a>
 <a href="https://github.com/MinaGirgis2000/PyGPACalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=pygpacalculator&theme=holi&hide_border=true" />
 </a>
