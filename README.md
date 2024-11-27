@@ -22,9 +22,9 @@
 <!-- <a href="https://github.com/MinaGirgis2000/ticket-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=ticket-app&theme=holi&hide_border=true" />
 </a> -->
-<a href="https://github.com/MinaGirgis2000/DailyCodingChallenge">
+<!--<a href="https://github.com/MinaGirgis2000/DailyCodingChallenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=dailycodingchallenge&theme=holi&hide_border=true" />
-</a>
+</a> -->
 <a href="https://github.com/MinaGirgis2000/JsGPACalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinaGirgis2000&repo=jsgpacalculator&theme=holi&hide_border=true" />
 </a>
